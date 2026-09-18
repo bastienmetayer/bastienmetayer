@@ -65,27 +65,6 @@
 
 ---
 
-<a name="current-focus"></a>
-
-## 🚀 En ce moment
-
-* 🔑 Système de gestion des permissions (façon Spatie) en Livewire
-* 📁 Système d'upload multi-fichiers de documents (Livewire + S3)
-* 🗂️ Système de gestion de projets avec jalons configurables
-  
----
-
-<a name="contact"></a>
-
-## 🔗 Me contacter
-
-<p align="center">
-  <a href="mailto:bastien.metayer49@gmail.com"><img src="https://img.shields.io/badge/Email-bastien.metayer49@gmail.com-informational?style=for-the-badge&logo=gmail" /></a>
-  <!-- Ajoute ici tes réseaux si tu veux les afficher -->
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=007edd&section=footer" />
 </p>
